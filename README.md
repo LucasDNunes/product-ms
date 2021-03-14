@@ -10,3 +10,5 @@ and
 ```
 java -jar target/product-ms-0.0.1-SNAPSHOT.jar
 ```
+
+the application will run in the url: http://localhost:9999
