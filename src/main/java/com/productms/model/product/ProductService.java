@@ -14,5 +14,5 @@ public interface ProductService {
 
   void delete(String id);
 
-
+  List<Product> search(String q, Double minPrice, Double maxPrice);
 }
