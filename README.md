@@ -1,14 +1,16 @@
 # product-ms
 
-steps to run application:
+The service is running with jdk 11.
 
-clone the repository and run the commands inside the file
+Steps to run this service:
+
+Clone the repository and run the commands inside the file
 ```
 mvn install
 ```
-and
+And
 ```
 java -jar target/product-ms-0.0.1-SNAPSHOT.jar
 ```
 
-the application will run in the url: http://localhost:9999
+The service will run in the url: http://localhost:9999
